@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "340142365746",
+    "firebase_url": "https://reactnativemoengage.firebaseio.com",
+    "project_id": "reactnativemoengage",
+    "storage_bucket": "reactnativemoengage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340142365746:android:c48838059c701f8440702b",
+        "android_client_info": {
+          "package_name": "com.clevertapreactnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340142365746-7sjtee7l06sukthl57efmthg2622jlo1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG3EVgdnIkYCgBmn9B3lISYMNJBQA9JsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340142365746-7sjtee7l06sukthl57efmthg2622jlo1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340142365746:android:a7bf4c118b060bfa40702b",
+        "android_client_info": {
+          "package_name": "com.reactmoengage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340142365746-7sjtee7l06sukthl57efmthg2622jlo1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG3EVgdnIkYCgBmn9B3lISYMNJBQA9JsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340142365746-7sjtee7l06sukthl57efmthg2622jlo1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
